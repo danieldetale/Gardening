@@ -31,6 +31,7 @@ namespace CounterApp
             return connectionInfo;
         }
 
+
         [FunctionName("broadcast")]
         public static async Task Broadcast([TimerTrigger("*/2 * * * * *")] TimerInfo myTimer,
         [SignalR(HubName = "serverless")] IAsyncCollector<SignalRMessage> signalRMessages)
