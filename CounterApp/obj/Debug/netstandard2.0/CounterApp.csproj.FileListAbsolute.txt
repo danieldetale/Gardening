@@ -1,0 +1,30 @@
+C:\Users\danke\Desktop\University\fifth year\IOT\CounterApp\CounterApp\CounterApp\bin\Debug\netstandard2.0\CounterApp.deps.json
+C:\Users\danke\Desktop\University\fifth year\IOT\CounterApp\CounterApp\CounterApp\bin\Debug\netstandard2.0\CounterApp.dll
+C:\Users\danke\Desktop\University\fifth year\IOT\CounterApp\CounterApp\CounterApp\bin\Debug\netstandard2.0\CounterApp.pdb
+C:\Users\danke\Desktop\University\fifth year\IOT\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.csproj.AssemblyReference.cache
+C:\Users\danke\Desktop\University\fifth year\IOT\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danke\Desktop\University\fifth year\IOT\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\danke\Desktop\University\fifth year\IOT\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\danke\Desktop\University\fifth year\IOT\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.AssemblyInfoInputs.cache
+C:\Users\danke\Desktop\University\fifth year\IOT\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.AssemblyInfo.cs
+C:\Users\danke\Desktop\University\fifth year\IOT\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.csproj.CoreCompileInputs.cache
+C:\Users\danke\Desktop\University\fifth year\IOT\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\danke\Desktop\University\fifth year\IOT\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.dll
+C:\Users\danke\Desktop\University\fifth year\IOT\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\refint\CounterApp.dll
+C:\Users\danke\Desktop\University\fifth year\IOT\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.pdb
+C:\Users\danke\Desktop\University\fifth year\IOT\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\ref\CounterApp.dll
+C:\Users\danie\Downloads\CounterApp\CounterApp\CounterApp\CounterApp\bin\Debug\netstandard2.0\CounterApp.deps.json
+C:\Users\danie\Downloads\CounterApp\CounterApp\CounterApp\CounterApp\bin\Debug\netstandard2.0\CounterApp.dll
+C:\Users\danie\Downloads\CounterApp\CounterApp\CounterApp\CounterApp\bin\Debug\netstandard2.0\CounterApp.pdb
+C:\Users\danie\Downloads\CounterApp\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\CounterApp\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Downloads\CounterApp\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\danie\Downloads\CounterApp\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\danie\Downloads\CounterApp\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.AssemblyInfoInputs.cache
+C:\Users\danie\Downloads\CounterApp\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.AssemblyInfo.cs
+C:\Users\danie\Downloads\CounterApp\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\CounterApp\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\danie\Downloads\CounterApp\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.dll
+C:\Users\danie\Downloads\CounterApp\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\refint\CounterApp.dll
+C:\Users\danie\Downloads\CounterApp\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\CounterApp.pdb
+C:\Users\danie\Downloads\CounterApp\CounterApp\CounterApp\CounterApp\obj\Debug\netstandard2.0\ref\CounterApp.dll

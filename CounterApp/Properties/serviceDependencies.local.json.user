@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2022-04-27T20:15:42.5070716Z"
+    },
+    "signalr1": {
+      "restored": true,
+      "restoreTime": "2022-04-27T20:15:44.7201451Z"
+    }
+  },
+  "parameters": {
+    "signalr1.resourceGroupName": {
+      "Name": "signalr1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "MyResourceGroup"
+    },
+    "signalr1.subscriptionId": {
+      "Name": "signalr1.subscriptionId",
+      "Type": "subscription",
+      "Value": "30088c00-1944-4022-adef-f52e122a4a85"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CounterApp.MainPage">
+
+    <StackLayout>
+        <Label HorizontalTextAlignment="Center" Text="Counter App" TextColor="Black" FontSize="Title" FontAttributes="Bold" Padding="0,25,0,25"/>
+        <Grid BackgroundColor="White" HeightRequest="70" Padding="0,0,10,0" Margin="10,0,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Label x:Name="label1" Grid.Column="1" Text="0" FontSize="20" TextColor="Black" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Padding="0,0,30,0"/>
+            <Button Grid.Column="2" Text="Increment" TextColor="Black" WidthRequest="200" VerticalOptions="Center" Clicked="Button_Clicked_1Async"></Button>
+        </Grid>
+        <Grid BackgroundColor="White" HeightRequest="70" Padding="0,0,10,0" Margin="10,0,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Label x:Name="label2" Grid.Column="1" Text="0" FontSize="20" TextColor="Black" VerticalTextAlignment="Center" HorizontalTextAlignment="Start" Padding="0,0,30,0"/>
+            <Button Grid.Column="2" Text="Increment" TextColor="Black" WidthRequest="200" VerticalOptions="Center" Clicked="Button_Clicked_2"></Button>
+        </Grid>
+    </StackLayout>
+
+</ContentPage>
